@@ -35,14 +35,6 @@ Smart Homify is an intuitive smart home automation dashboard that lets users con
 - Others: Raspberry Pi for IoT
 
 ---
-
-## 👥 Team Members
-  - Mayank Kumar Jha (https://github.com/mkj-1901)
-  - Krish Dhaked (https://github.com/kd5778)
-  - Himanshu Vitthalani (https://github.com/Himanshu-1903)
-  - Archee Jaiswal (https://github.com/archee_j)
-
----
 ## 📌 Future Improvements
   - Add user authentication
   - Enhance voice command capabilities
